@@ -1,6 +1,11 @@
 # CPLUSPLUS Data Structure & Algorithm
 EP1: Programming
 EP2: Problem Solving
+  a. Problem Identification
+  b. Problem Analysis
+  c. Solution Design: design a solution using Alogrithm
+  d. Coding
+  e. Testing
 EP3: Pointer & OOP
 EP4: Data Structure
 EP5: Tree/Graph/Heap
